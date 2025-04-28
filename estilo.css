@@ -1,0 +1,13 @@
+.flexblox{
+	display:flex;
+	border: 2px solid blue;
+	background-color: green;
+	width: 25%;
+}
+#blanco{
+	
+	padding: 20px;
+	margin:10px;
+	background-color: white;
+}
+
